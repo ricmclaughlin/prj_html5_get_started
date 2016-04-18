@@ -53,5 +53,23 @@
         2
       ]
     }
-  }
+  },
+  "name": "prj_html5_get_started",
+  "description": "",
+  "version": "1.0.0",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricmclaughlin/prj_html5_get_started.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricmclaughlin/prj_html5_get_started/issues"
+  },
+  "homepage": "https://github.com/ricmclaughlin/prj_html5_get_started#readme"
 }
